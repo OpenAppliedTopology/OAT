@@ -1,5 +1,3 @@
-This is the repository in which the SOLAR code was first developed. It is now deprecated, but retained for record keeping purposes. Please do not modify or delete.
-
 # ExHACT_SOLAR
 Sparse Oracle Linear Algebra in Rust
 
